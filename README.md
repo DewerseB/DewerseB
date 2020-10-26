@@ -4,7 +4,8 @@
 
 Hello, I'm Bastien Dewerse.  
 I'm currently following a web dev formation at Becode.  
-Here you'll find some of my projects made during that formation.
+Here you'll find some of my projects made during that formation.  
+- [My Linkedin profile](https://www.linkedin.com/in/bastien-dewerse/)
 
 ## Projects
 
