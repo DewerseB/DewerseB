@@ -20,6 +20,7 @@ Featuring routes with React router and responsiveness with Bulma.
 A PHP app to manage invoices for a made up company.  
 - [Github repository](https://github.com/DewerseB/COGIP-app)
 - [Project demo](https://calvin-jitnaree.alwaysdata.net/COGIP-app/)
+Use 'Jean-Christian' as a login and 'Ranu' as a password to access admin features.
 
 ### Cookie Clicker
 
