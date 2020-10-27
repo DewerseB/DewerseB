@@ -31,7 +31,7 @@ A simple and colorful Cookie Clicker in JS.
 
 ### Hackers Poulette
 
-A responsive PHP form with both client and server side validation, and sanitization.  
+A responsive PHP form with server side validation and sanitization.  
 - [Github repository](https://github.com/DewerseB/hackers-poulette)
 - [Project demo](https://hackers-poulette-form-project.herokuapp.com/)
 
