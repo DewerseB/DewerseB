@@ -12,7 +12,7 @@ Here you'll find some of my projects made during that formation.
 ### Woodstock
 
 A fully responsive static React app for a fake brand.  
-Featuring routes with React router and responsiveness with Bulma.  
+Featuring routes with React router, responsiveness with Bulma and a form with client side validation.  
 - [Github repository](https://github.com/DewerseB/Woodstock)
 - [Project demo](https://dewerseb.github.io/Woodstock/)
 
