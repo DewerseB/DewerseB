@@ -26,6 +26,7 @@ Use `Jean-Christian` as login and `Ranu` as password to access admin features.
 ### Cookie Clicker
 
 A simple and colorful Cookie Clicker in JS.  
+Beware, the graphic charter is highly debatable.  
 - [Github repository](https://github.com/DewerseB/CookieClicker)
 - [Project demo](https://dewerseb.github.io/CookieClicker/index.html)
 
