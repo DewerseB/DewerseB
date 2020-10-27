@@ -15,7 +15,6 @@ A fully responsive static React app for a fake brand.
 Featuring routes with React router and responsiveness with Bulma.  
 - [Github repository](https://github.com/DewerseB/Woodstock)
 - [Project demo](https://dewerseb.github.io/Woodstock/)
-- <a href="https://dewerseb.github.io/Woodstock/" target="_blank">Project demo</a>
 
 ### COGIP
 
