@@ -16,6 +16,12 @@ Featuring routes with React router, responsiveness with Bulma and a form with cl
 - [Github repository](https://github.com/DewerseB/Woodstock)
 - [Project demo](https://dewerseb.github.io/Woodstock/)
 
+### Hackers Poulette
+
+A responsive PHP form with server side validation and sanitization.  
+- [Github repository](https://github.com/DewerseB/hackers-poulette)
+- [Project demo](https://hackers-poulette-form-project.herokuapp.com/)
+
 ### COGIP
 
 A PHP app to manage invoices for a made up company.  
@@ -29,12 +35,6 @@ A simple and colorful Cookie Clicker in JS.
 Beware, the graphic charter is highly debatable.  
 - [Github repository](https://github.com/DewerseB/CookieClicker)
 - [Project demo](https://dewerseb.github.io/CookieClicker/index.html)
-
-### Hackers Poulette
-
-A responsive PHP form with server side validation and sanitization.  
-- [Github repository](https://github.com/DewerseB/hackers-poulette)
-- [Project demo](https://hackers-poulette-form-project.herokuapp.com/)
 
 ### NPM Card
 
