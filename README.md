@@ -18,7 +18,7 @@ Featuring routes with React router, responsiveness with Bulma and a form with cl
 
 ### Snake-svelte
 
-A Snake game made for a 3h workshop to initiate attendees to Svelte.
+A Snake game made for a 3 hours workshop to initiate attendees to Svelte.
 - [Github repository](https://github.com/DewerseB/snake-svelte)
 - [Project demo](https://dewerseb.github.io/snake-svelte/)
 
