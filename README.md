@@ -16,6 +16,12 @@ Featuring routes with React router, responsiveness with Bulma and a form with cl
 - [Github repository](https://github.com/DewerseB/Woodstock)
 - [Project demo](https://dewerseb.github.io/Woodstock/)
 
+### Snake-svelte
+
+A Snake game made for a 3h workshop to initiate attendees to Svelte.
+- [Github repository](https://github.com/DewerseB/snake-svelte)
+- [Project demo](https://dewerseb.github.io/snake-svelte/)
+
 ### Hackers Poulette
 
 A responsive PHP form with server side validation and sanitization.  
